@@ -1,7 +1,7 @@
 # Makine-Ogrenmesi-Temelleri 
 
- Bu repo Makine-Ogrenmesi-Temelleri Dersi için açılmıştır. 
- Ders kapsamında Makine Öğrenmesine temel giriş yaptık ve ardından Belirli Algoritmaları python kodları ile birlikte inceledik.
+- Bu repo Makine-Ogrenmesi-Temelleri Dersi için açılmıştır. 
+- Ders kapsamında Makine Öğrenmesine temel giriş yaptık ve ardından Belirli Algoritmaları python kodları ile birlikte inceledik.
 
 ### Bolüm1- Makine Öğrenmesi Temellerine Giriş;
 - Makine Öğrenmesine temel giriş ve neden makine öğrenmesi kullandığımızı anlattığımız sayfa.
