@@ -1,6 +1,9 @@
 # Makine-Ogrenmesi-Temelleri 
 
 - Bu repo Atatürk Üniversitesi Makine-Ogrenmesi-Temelleri Dersi için açılmıştır. 
+
+- Dersi veren sayın hocamız Doç. Dr. Ferhat BOZKURT
+
 - Ders kapsamında Makine Öğrenmesine temel giriş yaptık ve ardından Belirli Algoritmaları python kodları ile birlikte inceledik.
 
 ### Bolüm1- Makine Öğrenmesi Temellerine Giriş;
